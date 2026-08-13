@@ -168,77 +168,77 @@ rule-providers:
   Direct:
     <<: *ClassRule
     path: './rules/Direct.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/Direct.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/Direct.list'
 
   Download:
     <<: *ClassRule
     path: './rules/Download.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/Download.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/Download.list'
 
   ChinaGameDownload:
     <<: *ClassRule
     path: './rules/ChinaGameDownload.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/ChinaGameDownload.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/ChinaGameDownload.list'
 
   ProxyDownloadCDN:
     <<: *ClassRule
     path: './rules/ProxyDownloadCDN.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/ProxyDownloadCDN.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/ProxyDownloadCDN.list'
 
   PayPal:
     <<: *ClassRule
     path: './rules/PayPal.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/PayPal.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/PayPal.list'
 
   Ai:
     <<: *ClassRule
     path: './rules/Ai.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/Ai.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/Ai.list'
 
   ProxyMedia:
     <<: *ClassRule
     path: './rules/ProxyMedia.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/ProxyMedia.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/ProxyMedia.list'
 
   Telegram:
     <<: *ClassRule
     path: './rules/Telegram.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/Telegram.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/Telegram.list'
 
   GameClient:
     <<: *ClassRule
     path: './rules/GameClient.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/GameClient.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/GameClient.list'
 
   Google:
     <<: *ClassRule
     path: './rules/Google.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/Google.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/Google.list'
 
   Microsoft:
     <<: *ClassRule
     path: './rules/Microsoft.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/Microsoft.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/Microsoft.list'
 
   Apple:
     <<: *ClassRule
     path: './rules/Apple.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/Apple.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/Apple.list'
 
   Proxy:
     <<: *ClassRule
     path: './rules/Proxy.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/Proxy.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/Proxy.list'
 
   China:
     <<: *ClassRule
     path: './rules/China.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/China.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/China.list'
 
   LAN:
     <<: *ClassRule
     path: './rules/LAN.list'
-    url: 'https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Clash/Rule/LAN.list'
+    url: 'https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Clash/Rule/LAN.list'
 
 
 rules:

@@ -10,8 +10,8 @@ const ads_2 = 'labadena';
 
 const regex = '<head>';
 const replace_str = '<head>\
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Jard1n/VPN_Tool@main/Scripts/WebAdBlock/Html/Adblock4limbo.user.css" type="text/css" />\
-<script type="text/javascript" async="async" src="https://cdn.jsdelivr.net/gh/Jard1n/VPN_Tool@main/Scripts/WebAdBlock/Adblock4limbo.user.js"></script>'
+<link rel="stylesheet" href="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/CSS/Adblock4limbo.user.css" type="text/css" />\
+<script type="text/javascript" async="async" src="https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adguard/Adblock4limbo.user.js"></script>'
 
 // 定义响应体
 const body = $response.body.replace(regex, replace_str).replace(ads_1, limboproX).replace(ads_2, limboproX).replace(ads_, limboproX).replace('setTimeout','xxx')

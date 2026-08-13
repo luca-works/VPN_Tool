@@ -13,7 +13,7 @@ session.headers.update({
 })
 
 # 新脚本文件将被托管的基础 URL。
-REPLACE_BASE_URL = "https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Scripts/Fries/"
+REPLACE_BASE_URL = "https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Scripts/Fries/"
 
 # --- 主要功能函数 ---
 

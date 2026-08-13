@@ -19,8 +19,8 @@
 ^https:\/\/pan\.baidu\.com\/rest\/\d\.\d\/pcs\/adv data-type=text data="{}" status-code=200
 
 [Script]
-百度网盘 = type=http-response, pattern=^https:\/\/pan\.baidu\.com\/api\/getsyscfg\?, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Scripts/Baidu/baiduCloud.js
-百度网盘 = type=http-response, pattern=^https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Scripts/Baidu/baiduCloud.js
+百度网盘 = type=http-response, pattern=^https:\/\/pan\.baidu\.com\/api\/getsyscfg\?, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Scripts/Baidu/baiduCloud.js
+百度网盘 = type=http-response, pattern=^https:\/\/pan\.baidu\.com\/rest\/2\.0\/membership\/user, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Scripts/Baidu/baiduCloud.js
 
 [MITM]
 hostname = %APPEND% pan.baidu.com

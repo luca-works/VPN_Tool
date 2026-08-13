@@ -23,7 +23,7 @@ AND,((DOMAIN-SUFFIX,youtubei.googleapis.com),(PROTOCOL,QUIC)),REJECT
 
 
 [Script]
-http-response ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch) script-path=https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Scripts/YouTube/youtube.response.js,requires-body=true,binary-body-mode=true,argument=[{blockUpload},{blockImmersive},{captionLang},{lyricLang},{debug}],tag=YouTube去广告
+http-response ^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting|get_watch) script-path=https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Scripts/YouTube/youtube.response.js,requires-body=true,binary-body-mode=true,argument=[{blockUpload},{blockImmersive},{captionLang},{lyricLang},{debug}],tag=YouTube去广告
 
 
 [MitM]

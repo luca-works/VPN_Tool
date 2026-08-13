@@ -192,19 +192,19 @@
 
 [Script]
 # CoCo点单 //coco-com.e.verystar.net
-CoCo点单 = type=http-response, pattern=^https?:\/\/coco-com\.e\.verystar\.net\/v\d\/home\/info, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Scripts/MiniPrograms/WeChatApplet.js
+CoCo点单 = type=http-response, pattern=^https?:\/\/coco-com\.e\.verystar\.net\/v\d\/home\/info, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Scripts/MiniPrograms/WeChatApplet.js
 
 # 茶颜悦色
-茶颜悦色 = type=http-response, pattern=^https?:\/\/miniapp\.sexytea2013\.com\/cms\/slot\/queryByCodes\?codes=INDEX_TOP_BANNER, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Scripts/MiniPrograms/WeChatApplet.js
+茶颜悦色 = type=http-response, pattern=^https?:\/\/miniapp\.sexytea2013\.com\/cms\/slot\/queryByCodes\?codes=INDEX_TOP_BANNER, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Scripts/MiniPrograms/WeChatApplet.js
 
 # EMS中国邮政物流速递
-EMSt = type=http-response, pattern=^https?:\/\/ump\.ems\.com\.cn\/new-generation-extend\/redis\/pageInfoByChannel, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Scripts/MiniPrograms/WeChatApplet.js
+EMSt = type=http-response, pattern=^https?:\/\/ump\.ems\.com\.cn\/new-generation-extend\/redis\/pageInfoByChannel, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Scripts/MiniPrograms/WeChatApplet.js
 
 # 罗森点点
-罗森点点 = type=http-response, pattern=^https?:\/\/lawsonapi\.yorentown\.com\/area\/sh-lawson\/app\/v\d\/home, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Scripts/MiniPrograms/WeChatApplet.js
+罗森点点 = type=http-response, pattern=^https?:\/\/lawsonapi\.yorentown\.com\/area\/sh-lawson\/app\/v\d\/home, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Scripts/MiniPrograms/WeChatApplet.js
 
 # MStand
-MStand = type=http-response, pattern=^https?:\/\/api\.prod\.dj\.mstand\.cn\/scrm\/mini\/app\/index\/info, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/Scripts/MiniPrograms/WeChatApplet.js
+MStand = type=http-response, pattern=^https?:\/\/api\.prod\.dj\.mstand\.cn\/scrm\/mini\/app\/index\/info, requires-body=1, max-size=0, script-update-interval=-1, script-path=https://raw.githubusercontent.com/luca-works/VPN_Tool/main/Scripts/MiniPrograms/WeChatApplet.js
 
 
 [MITM]

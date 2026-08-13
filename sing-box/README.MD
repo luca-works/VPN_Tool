@@ -9,7 +9,7 @@ sing-box 订阅转换：[sing-box-subscribe](https://github.com/Toperlock/sing-b
 
 例如：
 
-      https://sing-box-subscribe.vercel.app/config/url=https://xxxxxx/&file=https://raw.githubusercontent.com/Jard1n/VPN_Tool/main/sing-box/sing-box.json
+      https://sing-box-subscribe.vercel.app/config/url=https://xxxxxx/&file=https://raw.githubusercontent.com/luca-works/VPN_Tool/main/sing-box/sing-box.json
 
 
 [sing-box 下载地址](https://github.com/SagerNet/sing-box/releases)
