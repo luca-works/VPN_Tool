@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "25 */12 * * *"
 
+permissions:
+  contents: write
+
 
 jobs:
   Update_rules:
@@ -14,7 +17,6 @@ jobs:
       - name: Checkout target repository
         uses: actions/checkout@v4
         with:
-          repository: Jard1n/VPN_Tool
           path: VPN_Tool-repo
           
       - name: 下载文件
@@ -143,4 +145,3 @@ jobs:
           else
             echo "No changes to commit."
           fi
-
