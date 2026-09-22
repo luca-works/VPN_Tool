@@ -1,4 +1,4 @@
-# Main total line 606 
+# Main total line 617 
 # ------------------------------------------
 DOMAIN,69shuba.cx
 DOMAIN,ea-api.arkoselabs.com
@@ -7,7 +7,6 @@ DOMAIN,eacommerce.akamaized.net
 DOMAIN,gog.salesmanago.com
 DOMAIN,hanime1.me
 DOMAIN,http-inputs-notion.splunkcloud.com
-DOMAIN,imagine.meta.com
 DOMAIN,in.mesl.cloud
 DOMAIN,javday.app
 DOMAIN,origin-a.akamaihd.net
@@ -125,6 +124,8 @@ DOMAIN-SUFFIX,cms-twdigitalassets.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,community
 DOMAIN-SUFFIX,compose-spec.io
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor.sh
 DOMAIN-SUFFIX,db-ip.com
 DOMAIN-SUFFIX,db.tt
 DOMAIN-SUFFIX,debug.com
@@ -213,6 +214,8 @@ DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,grokusercontent.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,gvt0.com
@@ -230,8 +233,10 @@ DOMAIN-SUFFIX,ikuncode.cc
 DOMAIN-SUFFIX,imdb
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,imdb.to
+DOMAIN-SUFFIX,ingest.sentry.io
 DOMAIN-SUFFIX,instagr.am
 DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,intercom.io
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipapi.co
@@ -276,6 +281,7 @@ DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,meta.com
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,microsoftpersonalcontent.com
 DOMAIN-SUFFIX,missav.ai
@@ -313,9 +319,12 @@ DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,oneclient.sfx.ms
 DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,opgg-static.akamaized.net
+DOMAIN-SUFFIX,oracle.com
+DOMAIN-SUFFIX,oraclecloud.com
 DOMAIN-SUFFIX,origin.com
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,paragon.com
@@ -516,6 +525,8 @@ DOMAIN-SUFFIX,withyoutube.com
 DOMAIN-SUFFIX,wootility.io
 DOMAIN-SUFFIX,wooting.io
 DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,workos.imgix.net
 DOMAIN-SUFFIX,works
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
